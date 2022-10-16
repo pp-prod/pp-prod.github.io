@@ -5,6 +5,8 @@
 layout: home
 ---
 
+# PPProd
+
 ## Introduction
 
 Bienvenue sur le site de l'[association PPProd][ppprod-statut] (PéPé PRODuction, loi 1901) ([règlement intérieur][ppprod-regint]).
