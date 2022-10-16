@@ -15,7 +15,7 @@ l'association PPProd met à disposition tout un ensemble de services et d'outils
 
 L'ensemble des ces outils est mis à disposition sur le [git][ppprod-gitlab] interne de l'association. 
 
-Pour avoir accès à ces dépot, vous devez avoir reçu votre login et password par mail. Conservez précieusement ces informations. Le dépot scripts contient un ensemble de scripts shell et fichiers de configuration. Leurs buts est de rapidement déployer une infrastructure qui permet d'exploiter des services.
+Pour avoir accès à ces dépots, vous devez avoir reçu votre login et password par mail. Conservez précieusement ces informations. Le dépot scripts contient un ensemble de scripts shell et fichiers de configuration. Leurs buts est de rapidement déployer une infrastructure qui permet d'exploiter des services.
 
 Ces services se découpent en 3 grosses familles :
  - les services d'INFrastructures pures, comme un serveur [gitlab](https://fr.wikipedia.org/wiki/GitLab), un serveur [ldap](https://fr.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol), un serveur [tor](https://fr.wikipedia.org/wiki/Tor_(r%C3%A9seau)), ... (certains services, comme le [vpn](https://fr.wikipedia.org/wiki/R%C3%A9seau_priv%C3%A9_virtuel) sur [lokinet](https://loki.network/), sont à cheval entre les services infra et crypto)
@@ -25,9 +25,9 @@ Ces services se découpent en 3 grosses familles :
 
 ## Licence
 
-En devenant membre de l'association PPProd, vous dever accepter et signer
+En devenant membre de l'association PPProd, vous devez accepter et signer :
  - les termes de [la licence de ce(s) projet(s)][ppprod-licence]
- - [la politique de contribution][ppprod-contributing], appliqué à tous les projets de l'[association PPProd][ppprod-statut])
+ - [la politique de contribution][ppprod-contributing], appliquée à tous les projets de l'[association PPProd][ppprod-statut]
 
 Dans les grandes lignes, cela signifie que tout ce qui est dans le [gitlab de l'association][ppprod-gitlab] appartient à l'association (donc à vous tant que vous êtes membre), et que tout ce que vous modifiez/écrivez doit être donné à l'association (donc à vous et aux autres membres). 
 
@@ -43,7 +43,8 @@ La partie adhésion se fait par l'intermédiare de [helloasso][ppprod-helloasso]
  - [Le compte twitter de l'association](http://www.twitter.com/__ppprod__)
  - [ppprod.biz](https://www.ppprod.biz)
  - [ppprod.ovh](https://www.ppprod.ovh)
- - [ppprod.trade](https://www.ppprod.trade)
+ - [ppprod.trading](https://www.ppprod.trading)
+ - [ppprod.club](https://www.ppprod.club)
 
 [ppprod-gitlab]:       https://www.ppprod.biz/gitlab/
 [ppprod-helloasso]:    https://www.helloasso.com/associations/pepe-production
