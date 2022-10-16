@@ -16,7 +16,8 @@ Pour avoir accès à ces dépot, vous devez avoir reçu votre login et password 
 
 Ces services se découpent en 3 grosses familles :
  - les services d'INFrastructures pures, comme un serveur [gitlab](https://fr.wikipedia.org/wiki/GitLab), un serveur [ldap](https://fr.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol), un serveur [tor](https://fr.wikipedia.org/wiki/Tor_(r%C3%A9seau)), ... (certains services, comme le [vpn](https://fr.wikipedia.org/wiki/R%C3%A9seau_priv%C3%A9_virtuel) sur [lokinet](https://loki.network/), sont à cheval entre les services infra et crypto)
- - les services de CRYPTO-monnaie, comme un [bot de trading](https://www.ppprod.biz/gitlab/ppprod/ab4c), un serveur [mynode](https://mynodebtc.com/), des [nodes](https://academy.binance.com/fr/articles/what-are-nodes) de [staking](https://academy.binance.com/fr/articles/what-is-staking) ou le [DEX](https://en.wikipedia.org/wiki/Decentralized_exchange) [blocknet](https://docs.blocknet.org/),
+
+- les services de CRYPTO-monnaie, comme un [bot de trading](https://www.ppprod.biz/gitlab/ppprod/ab4c), un serveur [mynode](https://mynodebtc.com/), des [nodes](https://academy.binance.com/fr/articles/what-are-nodes) de [staking](https://academy.binance.com/fr/articles/what-is-staking) ou le [DEX](https://en.wikipedia.org/wiki/Decentralized_exchange) [blocknet](https://docs.blocknet.org/),
  - les services Multi-Média, comme une [seedbox](https://fr.wikipedia.org/wiki/Seedbox) ou un serveur [plex](https://www.plex.tv/fr/).
 
 ## Licence
