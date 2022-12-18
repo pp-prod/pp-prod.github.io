@@ -41,6 +41,7 @@ La partie adhésion se fait par l'intermédiare de [helloasso][ppprod-helloasso]
 
  - [Le github de l'association](https://github.com/pp-prod/)
  - [Le compte twitter de l'association](http://www.twitter.com/__ppprod__)
+ - [Le compte linkedin de l'association](https://www.linkedin.com/company/p%C3%A9p%C3%A9-production/)
  - [ppprod.biz](https://www.ppprod.biz)
  - [ppprod.ovh](https://www.ppprod.ovh)
  - [ppprod.trading](https://www.ppprod.trading)
