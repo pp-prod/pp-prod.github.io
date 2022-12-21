@@ -62,7 +62,7 @@ L'interaction avec le bot est proposée sous forme d'application Web autonome lo
 
  - [Dimitri B.](https://joinentre.com/profile/dimitri)
    - Président - dev./support infra, dev. bot
-   - [contact](https://t.me/frenchy_dim)
+   - [contact](https://t.me/frenchy_dim) (Sid = ID (Session)[https://play.google.com/store/apps/details?id=network.loki.messenger])
  - [Olivier G.](https://joinentre.com/profile/olicobra)
    - support trading, bot et crypto nodes
 
