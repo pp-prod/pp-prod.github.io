@@ -105,6 +105,10 @@ Les informations organiques de l'association peuvent se trouver sur [gralon][ppp
 
 La partie adhésion se fait par l'intermédiare de [helloasso][ppprod-helloasso].
 
+Attention, Si vous lisez bien les statuts, vous verrez qu'il faut avoir des parrains, il est donc plus que judicieux de nous contacter sur les réseaux sociaux avant de penser vous inscrire.
+
+Si nous avons déjà parlé du fonctionnement le l'association, [foncez !][helloasso-inscription]
+
 ## Les sites connexes
 
  - [Le github de l'association](https://github.com/pp-prod/)
@@ -115,8 +119,9 @@ La partie adhésion se fait par l'intermédiare de [helloasso][ppprod-helloasso]
 
 [ppprod-gitlab]:       https://www.ppprod.biz/gitlab/
 [ppprod-helloasso]:    https://www.helloasso.com/associations/pepe-production
+[helloasso-inscription]: https://www.helloasso.com/associations/pepe-production/adhesions/bulletin-d-adhesion
 [ppprod-gralon]:       https://www.gralon.net/mairies-france/var/association-pepe-production--ppprod-la-garde_W832020125.htm
 [ppprod-statut]:       https://drive.google.com/file/d/1jZzIhDD1UfE6J6BTcf3pvz8nwBP4SeKP/view?usp=sharing
 [ppprod-regint]:       https://drive.google.com/file/d/1FUASETBoaTokUenv5XXdv8vFmuOtbSHa/view?usp=sharing
-[ppprod-licence]:      https://drive.google.com/file/d/1RIolXZQcsCAHuJQn9r3PQD_NZvdJHOVy/view?usp=sharing
+[ppprod-licence]:      https://drive.google.com/file/d/1Fxt7Y-OlUBH2EXcnevPeBcu1vKVl69zW/view?usp=share_link
 [ppprod-contributing]: https://drive.google.com/file/d/1RIolXZQcsCAHuJQn9r3PQD_NZvdJHOVy/view?usp=sharing
