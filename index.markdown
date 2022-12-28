@@ -9,7 +9,7 @@ layout: home
 
 Bienvenue sur le site de l'__[association PPProd][ppprod-statut]__ (PéPé PRODuction, loi 1901) ([règlement intérieur][ppprod-regint]).
 
-l'association PPProd a pour objet le développement d’applications logicielles, et met à disposition tout un ensemble de services, d'outils, ainsi que les logiciels/solutions développés par ses membres.
+L'association PPProd a pour objet le développement d’applications logicielles, et met à disposition tout un ensemble de services, d'outils, ainsi que les logiciels/solutions développés par ses membres.
 
 ## Une vision commune
 
