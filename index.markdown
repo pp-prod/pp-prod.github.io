@@ -60,6 +60,8 @@ Vous exécutez des __stratégies personnalisées__, paramétrables et modifiable
 
 L'interaction avec le bot est proposée sous forme d'application Web autonome locale. Le code applicatif est chez vous, directement modifiable et vous le faites évoluer en fonction de vos besoins.
 
+Pour plus d'informations techniques, vous pouvez lire la documentation sur [https://pp-prod.github.io/ab4c/](https://pp-prod.github.io/ab4c/).
+
 ## Qui sommes nous
 
 ### Les représentants
