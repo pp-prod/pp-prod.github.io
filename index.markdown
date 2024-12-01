@@ -118,10 +118,11 @@ Si nous avons déjà parlé du fonctionnement le l'association, [foncez !][hello
 ## Les sites connexes
 
  - [Le github de l'association](https://github.com/pp-prod/)
+ - [pp-prod.fr](https://www.pp-prod.fr)
+ - [pp-prod.trading](https://www.pp-prod.trading)
+ - [ppprod.trading](https://www.ppprod.trading)
  - [ppprod.biz](https://www.ppprod.biz)
  - [ppprod.ovh](https://www.ppprod.ovh)
- - [ppprod.trading](https://www.ppprod.trading)
- - [ppprod.club](https://www.ppprod.club)
 
 [ppprod-gitlab]:       https://www.ppprod.biz/gitlab/
 [ppprod-helloasso]:    https://www.helloasso.com/associations/pepe-production
