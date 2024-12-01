@@ -80,7 +80,7 @@ Une fois membre de l’association, tous les membres échangent sur __Telegram, 
 
 Pour toute information, ou pour simplement __suivre notre actualité__, vous pouvez nous suivre sur les réseaux suivant :
  - [Le compte mastodon de l'association](https://fosstodon.org/@ppprod)
- - [Le compte twitter de l'association](http://www.twitter.com/__ppprod__)
+ - [Le compte X (ex twitter) de l'association](http://x.com/__ppprod__)
  - [Le compte linkedin de l'association](https://www.linkedin.com/company/p%C3%A9p%C3%A9-production/)
 
 
